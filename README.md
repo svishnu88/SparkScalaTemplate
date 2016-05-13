@@ -1,0 +1,2 @@
+# SparkScalaTemplate
+For Intellij sbt
